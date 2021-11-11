@@ -6,5 +6,5 @@ This is the original pytorch implementation of DAST-GCN  in the paper [Dynamic A
 
 
 <p align="center">
-  <img width="350" height="400" src=./figs/model.png>
+  <img src=./figs/model.png>
 </p>
